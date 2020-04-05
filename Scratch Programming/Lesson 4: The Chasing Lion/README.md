@@ -1,2 +1,2 @@
 The lesson is available below: 
-<br> 
+<br> https://github.com/Leslie8826/ScratchProgramming_The-Chasing-Lion

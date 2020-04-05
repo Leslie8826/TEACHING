@@ -4,4 +4,4 @@ Since the switch to online teaching dur to the current crisis, this blog has the
   - Mix fun activities while learning
   
   Below is the link to the demo blog
-  https://leslieinstructor.wixsite.com/website
+  <br> https://leslieinstructor.wixsite.com/website
